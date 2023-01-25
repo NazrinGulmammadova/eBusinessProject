@@ -1,0 +1,10 @@
+﻿@model TeamMember
+@{
+    ViewData["Title"] = "Detail";
+}
+<div class="col-6">
+    <h1>Member Detail</h1>
+    <h4>@Model.Name</h4>
+    <img src="~/assets/img/team/@Model.Image" height="50px"/>
+    <a asp-action="Index" class="btn btn-info">Go Back!</a>
+</div>

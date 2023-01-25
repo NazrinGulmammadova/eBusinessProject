@@ -1,0 +1,17 @@
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\bin\Debug\net6.0\eBusiness.DataAccess.deps.json
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\bin\Debug\net6.0\eBusiness.DataAccess.runtimeconfig.json
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\bin\Debug\net6.0\eBusiness.DataAccess.dll
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\bin\Debug\net6.0\eBusiness.DataAccess.pdb
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\bin\Debug\net6.0\eBusiness.Core.dll
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\bin\Debug\net6.0\eBusiness.Core.pdb
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\eBusiness.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\eBusiness.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\eBusiness.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\eBusiness.DataAccess.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\eBusiness.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\eBusiness.DataAccess.csproj.CopyComplete
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\eBusiness.DataAccess.dll
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\refint\eBusiness.DataAccess.dll
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\eBusiness.DataAccess.pdb
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\eBusiness.DataAccess.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.DataAccess\obj\Debug\net6.0\ref\eBusiness.DataAccess.dll

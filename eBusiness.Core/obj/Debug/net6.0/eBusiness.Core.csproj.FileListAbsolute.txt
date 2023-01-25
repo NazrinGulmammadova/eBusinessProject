@@ -1,0 +1,14 @@
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\bin\Debug\net6.0\eBusiness.Core.deps.json
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\bin\Debug\net6.0\eBusiness.Core.runtimeconfig.json
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\bin\Debug\net6.0\eBusiness.Core.dll
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\bin\Debug\net6.0\eBusiness.Core.pdb
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\eBusiness.Core.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\eBusiness.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\eBusiness.Core.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\eBusiness.Core.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\eBusiness.Core.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\eBusiness.Core.dll
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\refint\eBusiness.Core.dll
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\eBusiness.Core.pdb
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\eBusiness.Core.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\eBusinessPr\eBusiness.Core\obj\Debug\net6.0\ref\eBusiness.Core.dll

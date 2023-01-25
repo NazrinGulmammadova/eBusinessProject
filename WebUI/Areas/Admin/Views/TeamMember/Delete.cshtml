@@ -1,0 +1,16 @@
+﻿@model TeamMember
+@{
+    ViewData["Title"] = "Delete";
+}
+<div class="col-6">
+    <h1>Member Detail</h1>
+    <h4>@Model.Name</h4>
+    <img src="~/assets/img/team/@Model.Image" height="50px"/>
+</div>
+<div class="col-3 mt-3">
+    <form method="post" enctype="multipart/form-data">
+        <button asp-action="Delete" class="btn btn-danger">Delete</button>
+        </form>
+    <a class="btn btn-info" asp-action="Index">Go Back!</a>
+</div>
+
